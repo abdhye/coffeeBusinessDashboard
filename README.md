@@ -1,4 +1,4 @@
-# coffeeOrdersDashboard
+# Coffee Business Dashboard
 A well-crafted dashboard not only provides valuable insights but also tells a compelling story about the business's performance.
 
 ## Data Gathering:
