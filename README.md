@@ -1,5 +1,5 @@
 # coffeeOrdersDashboard
-This project reaffirmed the importance of data-driven decision-making in the business world. A well-crafted dashboard not only provides valuable insights but also tells a compelling story about the business's performance.
+A well-crafted dashboard not only provides valuable insights but also tells a compelling story about the business's performance.
 
 ## Data Gathering:
 Collated data from multiple worksheets using Excel's powerful XLOOKUP feature, streamlining information about orders, customers, and products into a single view.
